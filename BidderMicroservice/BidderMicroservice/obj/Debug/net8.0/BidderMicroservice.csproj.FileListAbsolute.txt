@@ -1,0 +1,17 @@
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\bin\Debug\net8.0\BidderMicroservice.exe
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\bin\Debug\net8.0\BidderMicroservice.deps.json
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\bin\Debug\net8.0\BidderMicroservice.runtimeconfig.json
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\bin\Debug\net8.0\BidderMicroservice.dll
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\bin\Debug\net8.0\BidderMicroservice.pdb
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\bin\Debug\net8.0\System.Reactive.dll
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\obj\Debug\net8.0\BidderMicroservice.csproj.AssemblyReference.cache
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\obj\Debug\net8.0\BidderMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\obj\Debug\net8.0\BidderMicroservice.AssemblyInfoInputs.cache
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\obj\Debug\net8.0\BidderMicroservice.AssemblyInfo.cs
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\obj\Debug\net8.0\BidderMicroservice.csproj.CoreCompileInputs.cache
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\obj\Debug\net8.0\BidderMi.A6DBC92A.Up2Date
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\obj\Debug\net8.0\BidderMicroservice.dll
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\obj\Debug\net8.0\refint\BidderMicroservice.dll
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\obj\Debug\net8.0\BidderMicroservice.pdb
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\obj\Debug\net8.0\BidderMicroservice.genruntimeconfig.cache
+D:\Free Projects\Okazii\BidderMicroservice\BidderMicroservice\obj\Debug\net8.0\ref\BidderMicroservice.dll

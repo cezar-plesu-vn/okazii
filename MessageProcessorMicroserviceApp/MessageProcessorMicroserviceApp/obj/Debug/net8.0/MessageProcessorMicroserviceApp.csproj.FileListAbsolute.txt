@@ -1,0 +1,17 @@
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\bin\Debug\net8.0\MessageProcessorMicroserviceApp.exe
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\bin\Debug\net8.0\MessageProcessorMicroserviceApp.deps.json
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\bin\Debug\net8.0\MessageProcessorMicroserviceApp.runtimeconfig.json
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\bin\Debug\net8.0\MessageProcessorMicroserviceApp.dll
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\bin\Debug\net8.0\MessageProcessorMicroserviceApp.pdb
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\bin\Debug\net8.0\System.Reactive.dll
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\obj\Debug\net8.0\MessageProcessorMicroserviceApp.csproj.AssemblyReference.cache
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\obj\Debug\net8.0\MessageProcessorMicroserviceApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\obj\Debug\net8.0\MessageProcessorMicroserviceApp.AssemblyInfoInputs.cache
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\obj\Debug\net8.0\MessageProcessorMicroserviceApp.AssemblyInfo.cs
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\obj\Debug\net8.0\MessageProcessorMicroserviceApp.csproj.CoreCompileInputs.cache
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\obj\Debug\net8.0\MessageP.19B0ACF9.Up2Date
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\obj\Debug\net8.0\MessageProcessorMicroserviceApp.dll
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\obj\Debug\net8.0\refint\MessageProcessorMicroserviceApp.dll
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\obj\Debug\net8.0\MessageProcessorMicroserviceApp.pdb
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\obj\Debug\net8.0\MessageProcessorMicroserviceApp.genruntimeconfig.cache
+D:\Free Projects\Okazii\MessageProcessorMicroserviceApp\MessageProcessorMicroserviceApp\obj\Debug\net8.0\ref\MessageProcessorMicroserviceApp.dll

@@ -1,0 +1,14 @@
+D:\Free Projects\Okazii\MessageLibrary\MessageLibrary\obj\Debug\net8.0\MessageLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Free Projects\Okazii\MessageLibrary\MessageLibrary\obj\Debug\net8.0\MessageLibrary.AssemblyInfoInputs.cache
+D:\Free Projects\Okazii\MessageLibrary\MessageLibrary\obj\Debug\net8.0\MessageLibrary.AssemblyInfo.cs
+D:\Free Projects\Okazii\MessageLibrary\MessageLibrary\obj\Debug\net8.0\MessageLibrary.csproj.CoreCompileInputs.cache
+D:\Free Projects\Okazii\MessageLibrary\MessageLibrary\bin\Debug\net8.0\MessageLibrary.exe
+D:\Free Projects\Okazii\MessageLibrary\MessageLibrary\bin\Debug\net8.0\MessageLibrary.deps.json
+D:\Free Projects\Okazii\MessageLibrary\MessageLibrary\bin\Debug\net8.0\MessageLibrary.runtimeconfig.json
+D:\Free Projects\Okazii\MessageLibrary\MessageLibrary\bin\Debug\net8.0\MessageLibrary.dll
+D:\Free Projects\Okazii\MessageLibrary\MessageLibrary\bin\Debug\net8.0\MessageLibrary.pdb
+D:\Free Projects\Okazii\MessageLibrary\MessageLibrary\obj\Debug\net8.0\MessageLibrary.dll
+D:\Free Projects\Okazii\MessageLibrary\MessageLibrary\obj\Debug\net8.0\refint\MessageLibrary.dll
+D:\Free Projects\Okazii\MessageLibrary\MessageLibrary\obj\Debug\net8.0\MessageLibrary.pdb
+D:\Free Projects\Okazii\MessageLibrary\MessageLibrary\obj\Debug\net8.0\MessageLibrary.genruntimeconfig.cache
+D:\Free Projects\Okazii\MessageLibrary\MessageLibrary\obj\Debug\net8.0\ref\MessageLibrary.dll

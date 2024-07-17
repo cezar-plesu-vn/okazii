@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Free Projects\\Okazii\\MessageProcessorMicroserviceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0806EC0-C7C8-4D58-96D4-518B5634B357}|MessageProcessorMicroserviceApp\\MessageProcessorMicroserviceApp.csproj|d:\\free projects\\okazii\\messageprocessormicroserviceapp\\messageprocessormicroserviceapp\\messageprocessormicroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0806EC0-C7C8-4D58-96D4-518B5634B357}|MessageProcessorMicroserviceApp\\MessageProcessorMicroserviceApp.csproj|solutionrelative:messageprocessormicroserviceapp\\messageprocessormicroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageProcessorMicroservice.cs",
+              "DocumentMoniker": "D:\\Free Projects\\Okazii\\MessageProcessorMicroserviceApp\\MessageProcessorMicroserviceApp\\MessageProcessorMicroservice.cs",
+              "RelativeDocumentMoniker": "MessageProcessorMicroserviceApp\\MessageProcessorMicroservice.cs",
+              "ToolTip": "D:\\Free Projects\\Okazii\\MessageProcessorMicroserviceApp\\MessageProcessorMicroserviceApp\\MessageProcessorMicroservice.cs",
+              "RelativeToolTip": "MessageProcessorMicroserviceApp\\MessageProcessorMicroservice.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAxwMEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:01:36.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
