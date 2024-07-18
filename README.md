@@ -32,3 +32,8 @@ MessageProcessorMicroservice -> BiddingProcessorMicroservice -> AuctioneerMicros
 Start each service:
 cd path\to\BidderMicroserviceApp  
 dotnet run
+
+
+# Class Diagram
+![Diagram](https://github.com/user-attachments/assets/3e79113a-de59-45eb-8820-9ea6a11ce176)
+
